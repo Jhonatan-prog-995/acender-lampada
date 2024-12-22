@@ -1,0 +1,31 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #8f8b8e;
+}
+section{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.lampada{
+    display: flex;
+    margin: 0 5rem;
+    width: 100%;
+    justify-content: center;
+}
+
+
+img{
+    width: auto;       
+    height: 50rem;
+}
+
+button {
+    margin: 10px;             
+    padding: 10px 20px;     
+    width: 20%;
+    height: 2rem;
+    background: #8f8b8e;
+}
